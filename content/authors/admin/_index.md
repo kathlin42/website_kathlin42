@@ -43,7 +43,7 @@ education:
       year: 2016
 superuser: true
 highlight_name: true
-title: Katharina Lingelbach
+title: M.Sc. Katharina Lingelbach
 email: Katharina.Lingelbach@mailbox.org
 ---
 I am currently a PhD student in the Applied Neurocognitive Psychology Lab at the Universit Oldenburg and neuroscientist in the Applied Neurocognitive System Lab at the Fraunhofer Institute for Industrial Engineering. 
