@@ -22,29 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Assistant
+    company: Fraunhofer Institute for Industrial Engineering IAO
+    company_url: 'https://www.iao.fraunhofer.de'
+    company_logo: iao
+    location: Stuttgart, Germany
+    date_start: '2021-02-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Neuroelectrophysiology and Neuroimaging Methods
+        * Signal Processing, Statistics and Machine Learning
+        * Brain-Computer Interfaces and Neuro-adaptive Technologies
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+  - title: PhD Student 
+    company: University Oldenburg
+    company_url: 'https://www.uol.de'
+    company_logo: uol
+    company_logo: ancp
+    location: Oldenburg, Germany
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        * Investigating Neuronal Correlates of Interacting Affective and Cognitive Processes
+    
+  - title: Research Assistant
+    company: University of Stuttgart, the Institute of Human Factors and Technology Management IAT
+    company_url: 'https://www.iat.universität-stuttgart.de'
+    company_logo: iat
+    location: Stuttgart, Germany
+    date_start: '2018-11-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Neuroelectrophysiology and Neuroimaging Methods in Applied Scenarios
+        * Signal Processing, Statistics and Machine Learning
+        * Brain-Computer Interfaces and Neuro-adaptive Technologies
 design:
   columns: '2'
 ---
