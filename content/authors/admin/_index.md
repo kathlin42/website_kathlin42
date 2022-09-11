@@ -10,9 +10,9 @@ role: PhD student, Neuroscientist, and Psychologist (she/her/hers)
 avatar_filename: avatar.jpg
 
 organizations:
-  - name: "Applied Neurocognitive Psychology, Universty of Oldenburg"
+  - name: "Applied Neurocognitive Psychology, University of Oldenburg"
     url: https://uol.de/en/applied-neurocognitive-psychology
-  - name: "Neurocognitive Systems, Fraunhofer Institute for Industrial Engeniering
+  - name: "Neurocognitive Systems, Fraunhofer Institute for Industrial Engineering
       IAO"
     url: https://www.iao.fraunhofer.de/de/labors-ausstattung/neurolab.html
 
@@ -81,10 +81,9 @@ email: 'Katharina.Lingelbach@mailbox.org'
 highlight_name: true
 
 ---
-I am currently a PhD student in the Applied Neurocognitive Psychology Lab at the Universit Oldenburg and neuroscientist in the Applied Neurocognitive System Lab at the Fraunhofer Institute for Industrial Engineering. 
+I am currently a PhD student in the Applied Neurocognitive Psychology Lab at the University Oldenburg and neuroscientist in the Applied Neurocognitive System Lab at the Fraunhofer Institute for Industrial Engineering. 
 
 My research investigates neuronal correlates associated with cognitive processes during emotional distraction using EEG, MEG and fNIRS. 
 
 I am interested in new approaches in signal processing as well as encoding and decoding approaches to better understand how our brain processes emotional stimuli during ongoing cognitive tasks not only in laboratory settings but also in our everyday life. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}{{< icon name="download" pack="fas" >}}

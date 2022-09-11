@@ -33,12 +33,9 @@ content:
     postcode: '70569'
     country: Germany
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building Allmandring 35 and take the right Floor to Office 200
-  office_hours:
-    - 'via an appointment'
-  appointment_url: 'https://calendly.com'
+    latitude: '48.74025681016322'
+    longitude: '9.09608411155283'
+  directions: Building IAT University of Stuttgart, Allmandring 35, Ground Floor, Right Wing, Office 0.134
 design:
   columns: '2'
 ---
