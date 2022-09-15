@@ -1,5 +1,5 @@
 ---
-abstract: We introduce MindTrain, a novel, gamified neurofeedback training environment that allows users to learn the skill to voluntarily self-regulate their brain activity in Virtual Reality (VR). MindTrain combines the concept of implicit control with a mobile consumer EEG-wearable in an interactive and immersive VR-environment for visualising the feedback. We tested the feasibility of MindTrain for training to control states of relaxation and concentration.
+abstract: Using Electroencephalographic (EEG) signals for neurofeedback is helpful for learning and a promising approach to train the mind. We introduce MindTrain, a novel, gamified neurofeedback training environment that allows users to learn the skill to voluntarily self-regulate their brain activity in Virtual Reality (VR). MindTrain combines the concept of implicit control wth a mobile consumer EEG-wearable in an interactive and immersive VR-environment for visualising the feedback. We tested the feasibility of MindTrain for training to control states of relaxation and concentration. Our results prove that MindTrain is a promising novel method that warrants further investigation within a larger study. Furthermore, the use of the mobile EEG-wearable demonstrates the potential for bringing MindTrain out of the laboratory into a real-world context.
 author_notes: ""
 # - Equal contribution
 # - Equal contribution
@@ -19,14 +19,19 @@ publishDate: ""
 slides:
 summary:
 tags:
-- Emotion-Cognition Interaction
+- Electroencephalography
+- Brain-Computer Interface
 - Neurofeedback
-- EEG
-title: How to Train your Mind with Interactive Technologies
+- Implicit Control
+- Virtual Reality
+- Gamification
+- Relaxation
+- Concentration
+title: "MindTrain: How to Train your Mind with Interactive Technologies"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-90179-0_11"
-url_poster: "poster.jpg"
+url_pdf: "kosuru-mindtrain-2019.pdf"
+url_poster: "poster.pdf"
 url_project: ""
 url_slides: ""
 url_source: ""

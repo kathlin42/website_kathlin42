@@ -22,7 +22,7 @@ tags:
 title: "Artificial intelligence in psychology: How can we enable psychology students to accept and use artificial intelligence?"
 url_code: ""
 url_dataset: ""
-url_pdf: "paper.pdf"
+url_pdf: "gado-artifical-2022.pdf"
 url_poster: ""
 url_project: "https://osf.io/nzrxa/"
 url_slides: ""

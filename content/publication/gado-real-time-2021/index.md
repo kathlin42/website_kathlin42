@@ -26,11 +26,10 @@ tags:
 title: Real-time feedback of subjective affect and working memory load based on neurophysiological activity
 url_code: ""
 url_dataset: ""
-url_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-90179-0_11"
-url_poster: "poster.jpg"
+url_pdf: "gado-real-time-2021.pdf"
+url_poster: "poster.pdf"
 url_project: ""
 url_slides: ""
-url_source: ""
 url_video: "https://youtu.be/usoU87BaEyY"
 ---
 

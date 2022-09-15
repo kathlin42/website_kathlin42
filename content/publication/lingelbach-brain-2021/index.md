@@ -15,9 +15,9 @@ date: "2021-04-14T00:00:00Z"
 doi: "10.3389/fnrgo.2021.646225"
 featured: false
 projects: []
-publication: "Front. Neuroergonomics"
-publication_short: ""
-publication_types: ["1"]
+publication: "Frontiers in Neuroergonomics"
+publication_short: "Front. Neuroergonomics"
+publication_types: ["2"]
 publishDate: ""
 slides:
 summary:
@@ -28,7 +28,7 @@ tags:
 title: Brain Oscillation Entrainment by Perceptible and Non-perceptible Rhythmic Light Stimulation
 url_code: ""
 url_dataset: ""
-url_pdf: "paper.pdf"
+url_pdf: "lingelbach-brain-2021.pdf"
 url_project: ""
 url_slides: ""
 url_source: ""
