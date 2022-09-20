@@ -36,6 +36,10 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+image:
+  caption: 'Poster on the MuC 19'
+  focal_point: ''
+  preview_only: false
 ---
 
 <!--{{% callout note %}}

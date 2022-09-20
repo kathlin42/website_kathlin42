@@ -28,7 +28,7 @@ url_code: ""
 url_dataset: ""
 url_pdf: "gado-real-time-2021.pdf"
 url_poster: "poster.pdf"
-url_project: ""
+url_project: "https://osf.io/49dqk/?view_only=83b0397f2cf44fcba2ab6db1f1e80290"
 url_slides: ""
 url_video: "https://youtu.be/usoU87BaEyY"
 ---

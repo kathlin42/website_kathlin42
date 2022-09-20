@@ -29,7 +29,7 @@ title: Brain Oscillation Entrainment by Perceptible and Non-perceptible Rhythmic
 url_code: ""
 url_dataset: ""
 url_pdf: "lingelbach-brain-2021.pdf"
-url_project: ""
+url_project: "https://osf.io/auvmc/?view_only=5d1711db21d74344b5f1a0dff330b0f5"
 url_slides: ""
 url_source: ""
 url_video: ""
